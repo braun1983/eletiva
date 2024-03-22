@@ -1,0 +1,13 @@
+Apresentação:
+CodeBit é um Eletiva ofertada para o ensino médio com o objetivo de ensinar Desenvolvimento Web com foco em Front-end.
+
+Trabalharemos com as linguagens HTML, CSS e JavaScript
+
+W3Schools
+O W3Schools é um site bastante conhecido e popular entre desenvolvedores da web, estudantes e entusiastas que desejam aprender sobre tecnologias da web. Ele fornece tutoriais, referências, exemplos de código e exercícios interativos para uma variedade de tecnologias relacionadas à web, como HTML, CSS, JavaScript, PHP, SQL, Python, entre outras.
+
+Este site é frequentemente utilizado como uma fonte de referência rápida para aprender e revisar conceitos e técnicas relacionadas ao desenvolvimento web. Ele é conhecido por sua abordagem prática e fácil de entender, tornando-o um recurso útil para iniciantes e programadores mais experientes.
+
+É importante notar que, embora o W3Schools seja uma fonte popular de informação, às vezes há críticas quanto à precisão e profundidade de seus conteúdos. Por isso, é sempre uma boa prática buscar múltiplas fontes de informação ao estudar e aprender sobre desenvolvimento web e outras áreas relacionadas à tecnologia.
+
+Acesse o link do W3Schools
