@@ -2,6 +2,12 @@
 
 Por meio do CSS, é possível aplicar diversos tipos de backgrounds para personalizar a aparência dos elementos HTML. Abaixo estão alguns exemplos de como aplicar diferentes tipos de backgrounds usando CSS:
 
+Obs: Os exemplos estão usando o css inline. caso faça em um arquivo é só usar um dos modelos de seletores e organizar como no exemplo abaixo:
+div{
+background-color: #f0f0f0; 
+padding: 20px;
+}
+
 1. **Cor de Fundo:**
    - Utilize a propriedade `background-color` para definir uma cor de fundo sólida.
      ```html
