@@ -66,4 +66,4 @@ Em termos simples, o HTML é composto por uma série de elementos ou "tags" que 
 - `<nav>`: Define uma seção de navegação.
 - `<section>`: Define uma seção da página.
 
-[A Estrutura básica de uma página HTML](estrutura.html)
+[A Estrutura básica de uma página HTML](estrutura.md)
