@@ -1,7 +1,7 @@
 ## Passo a Passo para Utilizar a Tag `<img>` no HTML
 
 1. **Preparação da Imagem:**
-   Certifique-se de ter a imagem que deseja incorporar em um formato suportado, como JPEG, PNG ou GIF. Guarde a imagem em um local acessível para referência futura.
+   Certifique-se de ter a imagem que deseja incorporar em um formato suportado, como JPEG, PNG, GIF ou SVG. Guarde a imagem em um local acessível para referência futura.
 
 2. **Estrutura Básica do HTML:**
    Abra um arquivo HTML em um editor de texto ou em um ambiente de desenvolvimento web. Comece definindo a estrutura básica do HTML, incluindo as tags `<html>`, `<head>` e `<body>`.
