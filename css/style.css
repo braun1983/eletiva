@@ -28,6 +28,11 @@ body{
     text-transform: uppercase; 
     letter-spacing: 5px; 
     text-shadow: 2px -3px 1px rgba(121, 198, 240),
-     -3px 2px 1px rgb(229, 94, 244); 
+    -3px 2px 1px rgb(229, 94, 244); 
     margin-top: -20px; 
+}
+.container__subtitulo{
+    font-family: "Bungee", sans-serif;
+    margin-bottom: 20px;
+    margin-top: -50px;
 }
