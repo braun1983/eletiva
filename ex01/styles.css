@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Estilos para o cabeçalho */
+.cabecalho {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.titulo-cabecalho {
+    font-size: 36px;
+    color: #333;
+}
+
+.subtitulo-cabecalho {
+    font-size: 18px;
+    color: #666;
+}
+
+/* Estilos para o conteúdo principal */
+.principal {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.titulo-principal {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.paragrafo-principal {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Cor: #f0f0f0
+
+Itens: .cabecalho
+Cor: #333
+
+Itens: .titulo-cabecalho, .titulo-principal, .paragrafo-principal
+Cor: #666
+
+Itens: .subtitulo-cabecalho, .paragrafo-principal */ 
